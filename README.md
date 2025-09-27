@@ -1,5 +1,5 @@
 # VEDA
-VmE Data Acquistion
+# VmE Data Acquisition
+# (under development)
+A data acquisition software for CAEN VME ADCs
 
-
-Coming Soon
